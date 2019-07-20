@@ -5,3 +5,11 @@ Features
 * Note taking for every semester's subject
 * Learning Journey to be converted to resume
 * Timing tasks and schedule on calendar
+
+Goals
+* Target for all ages
+* Cloud based
+
+Now
+* Aimed at students
+* 
