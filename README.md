@@ -1,5 +1,6 @@
-# amethxo
-This project is aimed to be a daily motivator, which scrapes what you do everyday to things you can include in your resume. It can also act as your note taking or scheduler.
+# Amethxo
+This program is aimed to keep track of daily tasks and run algorithms to extract key activities. These information is then comppiled into an infographic for users' visualisation purposes. It can also be converted to pdf or word to lists skills to be written in resume or other purpose. On top of that, there is also a note taking service which finds keywords and ground them into a topic for better revision in the future.
+
 
 Features
 * Note taking for every semester's subject
@@ -12,12 +13,20 @@ Goals
 
 Now
 * Aimed at students
-* 
+* Creating a web interface first
 
-# Group 56: Angry Birds Trajectory Tracking
+## Design Documentation 
++ [Design Summary](https://gitlab.cecs.anu.edu.au/u6535292/assignapp2019s1/wikis/Design-Summary)
++ [Testing Summary](https://gitlab.cecs.anu.edu.au/u6535292/assignapp2019s1/wikis/Testing-Summary)
 
-This program feeds a video trailer of the 2009 Rovio Entertainment game 'Angry Birds' as input and displays this video in near-real-time as an output, annotated with colour-coded bounding boxes around the birds and pigs, as well as an estimate of birds' trajectories while in flight.
 
+## Authors
+
+* **Wei Xin Fam**
+* **Xue Ling Teh**
+
+
+## TO EDIT -------------------------------------------------------------------------------------------------------------
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for testing purposes.
@@ -60,10 +69,7 @@ Now that MATLAB is installed and configured on your device, the following are in
 
 ## GitHub Repository
 
-We use GitHub Repository as our main collaboration platform: [ENGN4528 repository](https://github.com/u6462117/ENGN4528). 
-
-## Authors
-* **Xue Ling Teh (u6462117)**
+We use GitHub Repository as our main collaboration platform
 
 ## Acknowledgments
 
