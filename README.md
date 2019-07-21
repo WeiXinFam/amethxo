@@ -63,9 +63,6 @@ Now that MATLAB is installed and configured on your device, the following are in
 We use GitHub Repository as our main collaboration platform: [ENGN4528 repository](https://github.com/u6462117/ENGN4528). 
 
 ## Authors
- 
-* **Uri Pierre Burmester (u5561093)**
-* **Logan Davis (u5798893)**
 * **Xue Ling Teh (u6462117)**
 
 ## Acknowledgments
