@@ -16,8 +16,7 @@ Now
 * Creating a web interface first
 
 ## Design Documentation 
-+ [Design Summary](https://gitlab.cecs.anu.edu.au/u6535292/assignapp2019s1/wikis/Design-Summary)
-+ [Testing Summary](https://gitlab.cecs.anu.edu.au/u6535292/assignapp2019s1/wikis/Testing-Summary)
++ [Design Summary](https://github.com/WeiXinFam/amethxo/wiki/DesignSummary)
 
 
 ## Authors
